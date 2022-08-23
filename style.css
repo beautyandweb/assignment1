@@ -1,0 +1,171 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+body h1 {
+    font-size: 35px;
+}
+
+.heading-part {
+    text-align: center;
+    color: whitesmoke;
+    background: url(images/donation14.webp);
+    padding: 275px;
+    background-size: 100%;
+}
+
+.donate-button {
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: tomato;
+    color: white;
+    border: none;
+    text-align: center;
+}
+
+.second-part {
+    text-align: center;
+    display: flex;
+}
+
+.amount {
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 25px;
+    background-color: rgba(229, 192, 192, 0.137);
+    border-radius: 10px;
+}
+
+.amount-center {
+    text-align: center;
+}
+
+.amount-extra {
+    margin-bottom: 20px 25px 10px;
+    padding: 10px;
+    font-size: 25px;
+    background-color: rgba(255, 99, 71, 0.425);
+    border: 2px solid tomato;
+    border-radius: 10px;
+
+}
+
+.third-part {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.fourth-part {
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+}
+
+.fifth {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.donate-button1 {
+    text-decoration: none;
+    padding: 15px;
+    background-color: tomato;
+    color: white;
+    border-radius: 5px;
+}
+
+hr {
+    margin-bottom: 30px;
+    width: 50%;
+}
+
+#mail-center {
+    margin: auto;
+    display: block;
+}
+
+.contact-us-section {
+    text-align: center;
+}
+
+.online-section {
+    text-align: center;
+}
+
+.offline-section {
+    text-align: right;
+}
+
+.contact-us {
+    text-align: center;
+    display: flex;
+}
+
+.sixth-part p {
+    text-align: center;
+}
+
+.sixth-part {
+    text-align: center;
+}
+
+.sixth-part {
+    text-align: center;
+}
+
+.donation-plan-area {
+    display: flex;
+    text-align: center;
+}
+
+#first {
+    border: 20px;
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+}
+
+#second {
+    border: 20px;
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+}
+
+#third {
+    border: 20px;
+    background-color: burlywood;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+}
+
+.eight {
+    border: 20px;
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+}
+
+.decoration {
+    background-color: darkgoldenrod;
+    margin: 10px;
+    border: 10px;
+    padding: 50px;
+    border-radius: 5px;
+}
+
+footer h1 {
+    color: tomato;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+}
